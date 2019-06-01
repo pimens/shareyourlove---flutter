@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "450825195629",
+    "firebase_url": "https://shareourlove-bb254.firebaseio.com",
+    "project_id": "shareourlove-bb254",
+    "storage_bucket": "shareourlove-bb254.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450825195629:android:24682f24e5496493",
+        "android_client_info": {
+          "package_name": "com.example.shareyourlove"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450825195629-8kf6sd2or7vcvf15rkt14mcbimi53j97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyhghTvebaX_7ssrUw9fg7VOGV-0LLQ2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450825195629-8kf6sd2or7vcvf15rkt14mcbimi53j97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
